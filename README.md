@@ -1,4 +1,4 @@
-<h1 align="center">🆂🆃🅰🆃🅸🆂🆃🅸🅲🆂</h1>
+<h2 align="center">ＳＴＡＴＩＳＴＩＣＳ</h2>
 
 ###
 
@@ -7,9 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Rann-Studio" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
 ###
 
-<h1 align="center">🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈</h1>
+<h2 align="center">ＴＥＣＨＮＯＬＯＧＹ</h2>
 
 ###
 
@@ -28,9 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
 </div>
 
+<br clear="both">
+
 ###
 
-<h1 align="center">🅲🅾🅽🆃🅰🅲🆃</h1>
+<h2 align="center">ＣＯＮＴＡＣＴ</h2>
 
 ###
 
@@ -44,10 +48,12 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=help.rannstudio@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
+  
+<br clear="both">
 
 ###
 
-<h1 align="center">🆂🆄🅿🅿🅾🆁🆃</h1>
+<h2 align="center">ＳＵＰＰＯＲＴ</h2>
 
 ###
 
@@ -60,16 +66,19 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">🆅🅸🆂🅸🆃🅾🆁 &nbsp;&nbsp;🅲🅾🆄🅽🆃🅴🆁</h1>
-
-###
-
 <br clear="both">
+  
+  
+###
+
+<h2 align="center">ＶＩＳＩＴＯＲ &nbsp;ＣＯＵＮＴＥＲ</h2>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rann-Studio/count.svg?"  />
 </div>
+
+<br clear="both">
 
 ###
