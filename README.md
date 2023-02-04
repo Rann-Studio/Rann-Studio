@@ -1,4 +1,4 @@
-<h2 align="center">ＳＴＡＴＩＳＴＩＣＳ</h2>
+<h3 align="center">ＳＴＡＴＩＳＴＩＣＳ</h3>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="center">ＴＥＣＨＮＯＬＯＧＹ</h2>
+<h3 align="center">ＴＥＣＨＮＯＬＯＧＹ</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="center">ＣＯＮＴＡＣＴ</h2>
+<h3 align="center">ＣＯＮＴＡＣＴ</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="center">ＳＵＰＰＯＲＴ</h2>
+<h3 align="center">ＳＵＰＰＯＲＴ</h3>
 
 ###
 
@@ -71,7 +71,7 @@
   
 ###
 
-<h2 align="center">ＶＩＳＩＴＯＲ &nbsp;ＣＯＵＮＴＥＲ</h2>
+<h3 align="center">ＶＩＳＩＴＯＲ &nbsp;ＣＯＵＮＴＥＲ</h3>
 
 ###
 
