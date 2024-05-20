@@ -1,8 +1,8 @@
-<h3 align="center">ＳＴＡＴＩＳＴＩＣＳ</h3>
+<h3>ＳＴＡＴＩＳＴＩＣＳ</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Rann-Studio" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Rann-Studio" height="150" alt="languages graph"  />
 </div>
@@ -11,11 +11,11 @@
 
 ###
 
-<h3 align="center">ＴＥＣＨＮＯＬＯＧＹ</h3>
+<h3>ＴＥＣＨＮＯＬＯＧＹ</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="62" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" width="62" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
@@ -34,11 +34,11 @@
 
 ###
 
-<h3 align="center">ＣＯＮＴＡＣＴ</h3>
+<h3>ＣＯＮＴＡＣＴ</h3>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://www.instagram.com/fikran2906/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -53,11 +53,11 @@
 
 ###
 
-<h3 align="center">ＳＵＰＰＯＲＴ</h3>
+<h3>ＳＵＰＰＯＲＴ</h3>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://paypal.me/leuguna" target="_blank">
   <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
@@ -71,11 +71,11 @@
   
 ###
 
-<h3 align="center">ＶＩＳＩＴＯＲ &nbsp;ＣＯＵＮＴＥＲ</h3>
+<h3>ＶＩＳＩＴＯＲ &nbsp;ＣＯＵＮＴＥＲ</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://profile-counter.glitch.me/Rann-Studio/count.svg?"  />
 </div>
 
