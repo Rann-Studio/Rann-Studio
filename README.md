@@ -1,84 +1,17 @@
-<h3>ＳＴＡＴＩＳＴＩＣＳ</h3>
+## 👨‍💻 About Me:
+I am a dedicated Backend Developer from Banda Aceh, Indonesia, with a passion for building robust and efficient systems. Since 2019, I have focused on enhancing my skills in backend technologies, including web development, API design, database management, and system security. My journey has been driven by a commitment to continuous learning and improving my problem-solving skills. Let's connect and collaborate to create something amazing!
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leuguna) [![Gmail](https://img.shields.io/badge/Gmail-%23E04D3B.svg?logo=gmail&logoColor=white)](mailto:fikranleuguna@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%2328A9EB.svg?logo=telegram&logoColor=white)](https://t.me/Rann29) [![Instgram](https://img.shields.io/badge/Instagram-%23E50071.svg?logo=instagram&logoColor=white)](https://instagram.com/fikran2906)
 
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 Github Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Rann-Studio" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Rann-Studio" height="150" alt="languages graph"  />
-</div>
-
-<br clear="both">
-
-###
-
-<h3>ＴＥＣＨＮＯＬＯＧＹ</h3>
-
-###
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="62" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" width="62" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="62" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  height="50" width="62" alt="tailwind logo"   />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="62" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" width="62" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" width="62" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" height="50" width="62" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" width="62" alt="mysql logo"  />
-</div>
-
-<br clear="both">
-
-###
-
-<h3>ＣＯＮＴＡＣＴ</h3>
-
-###
-
-<div>
-  <a href="https://www.instagram.com/fikran2906/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/516433133936050191" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:help.rannstudio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rann-studio&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rann-studio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
   
-<br clear="both">
-
-###
-
-<h3>ＳＵＰＰＯＲＴ</h3>
-
-###
-
-<div>
-  <a href="https://paypal.me/leuguna" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
-  <a href="https://saweria.co/rannstudio" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Saweria&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAIcUExURQAAACoqKodkKn9kOyoqKhcXF4NcFIBfKRodGhoaHh0dIRsbJBkdHS0qJTctGBkdIoZbE3NYKSAgKC8pJlBDME9AMCMjICMjI3NRFJNmD0BAQCMjHIBYFp9rDqdxEohfEBkZGVZAGEo4GS0oH4RiJX1cHSQkHi4uLphnD5BjDzMzM1lBGlhGIyIiIq1zEbiCJR4eHjozHS0qJJBjEIRcDyAgICAgILB1DrR4CUBAQAAAAGVKGceCD8+ICWxOFwAAACcnH5ZmE3pXF21OFopfECMnHj4yI5FkEqdxDXJRFCgoKE07GpBiD3lXEu+bA+aoQe6bAuSfJ96QBvqxNPyjAOCXFvqnFv6kAMmECOqdFf2sHP2tIMOLJr9+CpVoEYhgFvmhAbx9Cs2HB++bAnZZJahzENjY2F5eXodeE6NvDbh6C2VJGXd3d9fW1qmXdfn5+ScnJ0Y6NMWQjDArKjQ0NP7+/qqNV/CbBKWOY////4KCgk1EXV9Rd2BReEQ+UZOTk6d/M/OdAtmOBqeNXaR+Obp9FDgvHzsxH7h7Fqd/NKd+M/OdAcOADeOUBIxhEY5eHI5eG5JkENuPBf2oCNWSGvjKRPnDOOWVBJNPP5xPRtKLBv2lA/fQUfjJQvywF72MH6NvDqJwEtGKCNGJCcyGCbd8C45jEaR0H7WQNPyuEqZxDeuZA6l5JrF6FaJuDcWDCfSeAah0Fv2jAO2aBCu+rZUAAABOdFJOUwAMxrcGC8G8RjtGOT1aYTTXoiBXb2tQHanQBCTE/v67H3dkOfn0KgvZywWJdB737xFqVdzOCBj9+AgCpv7+kwFC6vbw0jtCz9+aE3S4nuXZMCkAAAABYktHRHmh3NTQAAAAB3RJTUUH5wEWCwogQlOHygAAAPlJREFUGNNjYGBkYmZhAANWNnYQi8PPnxMiwBUQyA2keIKCeSECfCGh/ECKRSBMUEhYRFRMXCJcUgokIS0TIRsZFR0jFyuvAFGqGBefkJiUnJKqBOErq6SlZ2RmZefkqqqB+OoaefkFhUVFxSWlZZpaQAHt8orKquqa2rr6/IZGHQYGXb3wpuaW1rb2js6u7nB9AwbDnvDw8N6+/gkTJ4VPnjzFiIHVeOq08PDpM2bOCp89Z66JKYOZ+bz5CxYuWrxk6bLlK1ZaWDJYWdusClm9Zu269RvCN9ra2TMw2Ds4bgoPcXLeHB7u4gpxmZu7h6eXqbePry6QAwBguEYkRi5KGAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wMS0yMlQxMToxMDozMiswMDowMCmdD7cAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDEtMjJUMTE6MTA6MzIrMDA6MDBYwLcLAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTAxLTIyVDExOjEwOjMyKzAwOjAwD9WW1AAAAABJRU5ErkJggg==&label=&color=FAAE2B&logoColor=white&labelColor=&style=for-the-badge&link=https://saweria.co/rannstudio" height="35" alt="Saweria logo"  />
-  </a>
-</div>
-
-<br clear="both">
-  
-  
-###
-
-<h3>ＶＩＳＩＴＯＲ &nbsp;ＣＯＵＮＴＥＲ</h3>
-
-###
-
-<div>
-  <img src="https://profile-counter.glitch.me/Rann-Studio/count.svg?"  />
-</div>
-
-<br clear="both">
-
-###
+  ## 💰 Support Me:
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leuguna) [![Saweria](https://img.shields.io/badge/Saweria-F79F01?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAIcUExURQAAACoqKodkKn9kOyoqKhcXF4NcFIBfKRodGhoaHh0dIRsbJBkdHS0qJTctGBkdIoZbE3NYKSAgKC8pJlBDME9AMCMjICMjI3NRFJNmD0BAQCMjHIBYFp9rDqdxEohfEBkZGVZAGEo4GS0oH4RiJX1cHSQkHi4uLphnD5BjDzMzM1lBGlhGIyIiIq1zEbiCJR4eHjozHS0qJJBjEIRcDyAgICAgILB1DrR4CUBAQAAAAGVKGceCD8+ICWxOFwAAACcnH5ZmE3pXF21OFopfECMnHj4yI5FkEqdxDXJRFCgoKE07GpBiD3lXEu+bA+aoQe6bAuSfJ96QBvqxNPyjAOCXFvqnFv6kAMmECOqdFf2sHP2tIMOLJr9+CpVoEYhgFvmhAbx9Cs2HB++bAnZZJahzENjY2F5eXodeE6NvDbh6C2VJGXd3d9fW1qmXdfn5+ScnJ0Y6NMWQjDArKjQ0NP7+/qqNV/CbBKWOY////4KCgk1EXV9Rd2BReEQ+UZOTk6d/M/OdAtmOBqeNXaR+Obp9FDgvHzsxH7h7Fqd/NKd+M/OdAcOADeOUBIxhEY5eHI5eG5JkENuPBf2oCNWSGvjKRPnDOOWVBJNPP5xPRtKLBv2lA/fQUfjJQvywF72MH6NvDqJwEtGKCNGJCcyGCbd8C45jEaR0H7WQNPyuEqZxDeuZA6l5JrF6FaJuDcWDCfSeAah0Fv2jAO2aBCu+rZUAAABOdFJOUwAMxrcGC8G8RjtGOT1aYTTXoiBXb2tQHanQBCTE/v67H3dkOfn0KgvZywWJdB737xFqVdzOCBj9+AgCpv7+kwFC6vbw0jtCz9+aE3S4nuXZMCkAAAABYktHRHmh3NTQAAAAB3RJTUUH5wEWCwogQlOHygAAAPlJREFUGNNjYGBkYmZhAANWNnYQi8PPnxMiwBUQyA2keIKCeSECfCGh/ECKRSBMUEhYRFRMXCJcUgokIS0TIRsZFR0jFyuvAFGqGBefkJiUnJKqBOErq6SlZ2RmZefkqqqB+OoaefkFhUVFxSWlZZpaQAHt8orKquqa2rr6/IZGHQYGXb3wpuaW1rb2js6u7nB9AwbDnvDw8N6+/gkTJ4VPnjzFiIHVeOq08PDpM2bOCp89Z66JKYOZ+bz5CxYuWrxk6bLlK1ZaWDJYWdusClm9Zu269RvCN9ra2TMw2Ds4bgoPcXLeHB7u4gpxmZu7h6eXqbePry6QAwBguEYkRi5KGAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wMS0yMlQxMToxMDozMiswMDowMCmdD7cAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDEtMjJUMTE6MTA6MzIrMDA6MDBYwLcLAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTAxLTIyVDExOjEwOjMyKzAwOjAwD9WW1AAAAABJRU5ErkJggg==&logoColor=white)](https://saweria.co/rannstudio) [![Trakteer](https://img.shields.io/badge/Trakteer-E50027?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAASBQTFRFAAAA/wAA5wAm6AAm5QAn5gAn5gAn5QAm5gAm5gAn5QAn5QAn5AAn5QAm5QAn5QAn5QEn5QYs5gct5gku5gwx5g0y5hA05xI25xY55xY66Bs+6Bw+6B1A6SdI6StM6S1N6S5N6S5O6jBQ6jFR6jVT6z5b6z9d60Bd60Jf7Exn7l127l538G6E8HCG8XWK8XaK8XeM8XuQ8X6R8n6S8n+S8n+T8oGU8oaY84qb84uc9JSk9aCv9aKx9qi19q+79q+897O+97TA97XA+LnE+LvG+cLL+cLM+cXN+cfP+s/W+tHY+tPa+tTa+9je+9nf+9vg+9zh/evu/e3w/e7x/e/y/fDy/fHz/fL0/vL0/vP0/vb3/vf4/vn6//z9//39////y+eVhAAAAA90Uk5TAAI1Q4m209TU5vL1+fz+/z/KzwAAAWJJREFUOMuFk9dWAlEMRTOdNgQLYgF7L9hRsCuCIs2CIqjn///CB3BycQ1wnpLcvWZWkhMiIs0wLTsYirhRZmbmqBsJBR3LNDQiIiLd4T4K6EREepj7KqwTaQEeIEcjgwfKIFPJZm4/H1d6AZMsJXsA8DHVA1iktDAJAJcbSRWwKSjJWAs4u8dPWgGCFFKyPeAEwNe4lEIUUT+4drgN4HtCKhFylffpZHL2NJvdiUnJpagkaXS1K7UoSRw/KBbrAIDzuFQFSFTgqZLwATJQlPEB8gBu9kvl4zsAeR+gBFwxj4xy7Boo+QAVYLMTbQEVAbw2a96fj4CatOkqwPsiM/PcmwK4MuoqgJdl5qVnAFUZtbesMgA01ldfAeBJluWtu6DOoSDrtv/CnArkPNeK5VJNeW+mxHJi2oWLeqPVbrca9Yt5xbRDba85g94D2vDTI9L7Hp+jd85bM0zL+X/+dvf8fwFNBHDZ+Ab1WwAAAABJRU5ErkJggg==&logoColor=white)](https://trakteer.id/rannstudio/tip) 
